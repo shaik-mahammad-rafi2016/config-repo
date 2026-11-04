@@ -1,0 +1,7 @@
+app:
+  environment: testing
+  message: Welcome to Order Service QA
+
+logging:
+  level:
+    root: INFO

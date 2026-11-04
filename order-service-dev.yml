@@ -1,0 +1,7 @@
+app:
+  environment: development
+  message: Welcome to Order Service DEV
+
+logging:
+  level:
+    root: DEBUG

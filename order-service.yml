@@ -1,0 +1,6 @@
+app:
+  name: order-service
+  description: Order management application
+
+server:
+  port: 8081
